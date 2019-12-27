@@ -10,7 +10,7 @@ This library supports fetching:
 
 # API
 ```
-const Rule34 = require('api2-rule34-xxx') 
-const api = new Rule34();
+const Rule34API = require('api2-rule34-xxx') 
+const api = new Rule34API();
 api.post.id(3549003).then((post)=> console.log(JSON.stringify(post, null, 2)));
 ```

@@ -3,7 +3,7 @@ import cheerio from 'cheerio';
 import ListAPI from './list';
 import PostAPI from './post';
 
-export default class MoebooruAPI {
+export default class Rule34API {
   public readonly post = new PostAPI(this);
   public readonly list = new ListAPI(this);
 
