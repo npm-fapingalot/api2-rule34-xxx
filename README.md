@@ -3,8 +3,7 @@ A API wrapper that reads the HTML of the site and extracts info
 
 This library supports fetching:
 - Post, 
-- List of Post, 
-- tags/characters/parodies/catagories/groups/artists
+- List of Post
 
 # Install
 ``` npm install --save api2-rule34-xxx ```
